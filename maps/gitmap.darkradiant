@@ -2,19 +2,13 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "32" } 
+		KeyValue { "EditTimeInSeconds" "39" } 
 		KeyValue { "LastCameraAngle" "0 0 0" } 
 		KeyValue { "LastCameraPosition" "0 0 30" } 
 	}
-	SelectionGroups
-	{
-	}
-	SelectionGroupNodeMapping
-	{
-	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 32 }
+		TotalSecondsEdited { 39 }
 	}
 	Layers
 	{
@@ -24,6 +18,13 @@ DarkRadiant Map Information File Version 2
 	{
 		Node { 0 } // entity (world)
 		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+	}
+	SelectionGroups
+	{
+	}
+	SelectionGroupNodeMapping
+	{
 	}
 	SelectionSets
 	{
